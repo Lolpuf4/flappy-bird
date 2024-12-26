@@ -1,0 +1,6 @@
+import pygame as pg
+
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1200
+
+FPS = 30
